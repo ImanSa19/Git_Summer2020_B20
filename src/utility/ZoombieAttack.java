@@ -5,6 +5,8 @@ import java.util.Arrays;
 
 public class ZoombieAttack {
 
+
+
         public static void main(String[] args) {
             Scanner input = new Scanner(System.in);
             int[] inhabitants = new int[8];
